@@ -1,0 +1,12 @@
+{
+  "development": {
+    "username": "root",
+    "password": "1029",
+    "dbName": "serverless",
+    "host": "localhost",
+    "port": "3306",
+    "dialect": "mysql",
+    "maxIdleConns": 10,
+    "maxOpenConns": 10
+  }
+}
